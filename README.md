@@ -1,4 +1,4 @@
-## Hi there I'm Aryan👋
+## Hi there! I'm Aryan👋
 
 🎓 First-year CSE student at Scaler School of Technology, Bangalore<br/>
 💻 Interested in AI, Machine Learning & Data Science<br/> 
