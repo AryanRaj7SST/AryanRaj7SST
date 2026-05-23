@@ -1,6 +1,6 @@
 ## Hi there I'm Aryan👋
 
-🎓 First-year CSE student at Newton School of Technology, Bangalore<br/>
+🎓 First-year CSE student at Scaler School of Technology, Bangalore<br/>
 💻 Interested in AI, Machine Learning & Data Science<br/> 
 🌱 Currently learning React, DSA ,JAVA and Python <br/>
 🚀 Building projects and improving my development skills every day<br/>
